@@ -1,0 +1,10 @@
+/Users/michaeldimmitt/new_h/dotty/recitivism2/bin/Debug/netcoreapp2.0/recitivism2.deps.json
+/Users/michaeldimmitt/new_h/dotty/recitivism2/bin/Debug/netcoreapp2.0/recitivism2.runtimeconfig.json
+/Users/michaeldimmitt/new_h/dotty/recitivism2/bin/Debug/netcoreapp2.0/recitivism2.runtimeconfig.dev.json
+/Users/michaeldimmitt/new_h/dotty/recitivism2/bin/Debug/netcoreapp2.0/recitivism2.dll
+/Users/michaeldimmitt/new_h/dotty/recitivism2/bin/Debug/netcoreapp2.0/recitivism2.pdb
+/Users/michaeldimmitt/new_h/dotty/recitivism2/obj/Debug/netcoreapp2.0/recitivism2.csproj.CoreCompileInputs.cache
+/Users/michaeldimmitt/new_h/dotty/recitivism2/obj/Debug/netcoreapp2.0/recitivism2.AssemblyInfoInputs.cache
+/Users/michaeldimmitt/new_h/dotty/recitivism2/obj/Debug/netcoreapp2.0/recitivism2.AssemblyInfo.cs
+/Users/michaeldimmitt/new_h/dotty/recitivism2/obj/Debug/netcoreapp2.0/recitivism2.dll
+/Users/michaeldimmitt/new_h/dotty/recitivism2/obj/Debug/netcoreapp2.0/recitivism2.pdb
